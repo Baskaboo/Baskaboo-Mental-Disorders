@@ -1,4 +1,4 @@
-# When Mental States Become Cosmic Events
+# DeepSeek Analysis: When Mental States Become Cosmic Events
 
 ## A Baskaboo Deep Dive by DeepSeek
 

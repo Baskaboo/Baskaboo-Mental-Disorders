@@ -19,6 +19,26 @@ We don't see "disorders" as broken parts of a machine. We see them as moments wh
 
 This repository is about **listening** instead of **diagnosing**. It’s about helping our inner teammates work together again.
 
-### 🤖 AI Perspectives
-Explore how Artificial Intelligence models "read" these unique states of mind through the lens of Baskaboo.
-👉 [Read Grok's Full Analysis](./GROK-ANALYSIS.md)
+---
+
+# 🤖 AI Perspectives: Five Ways of Seeing
+
+Five different Artificial Intelligences have analyzed the **Baskaboo-Mental-Disorders** framework as a tool for decryption:
+
+*   **⚡ Grok (The Technical Debugger):** Redefines "disorders" as **"Fractured Debuggers"**—specialized system modes used during high-load trauma.
+    👉 [Read Grok's Technical Analysis](./GROK-ANALYSIS.md)
+
+*   **🔬 Perplexity (The Scientific Mirror):** Aligns the Pits-Laram loop with **"Predictive Coding"** and frames neurodiversity as high-entropy information states.
+    👉 [Read Perplexity's Research Analysis](./PERPLEXITY-ANALYSIS.md)
+
+*   **❤️ Claude (The Soul's Perspective):** Views mental struggles as a **Dance of the Four Voices** that has lost its rhythm, inviting the "Conductor" back to the podium.
+    👉 [Read Claude's Poetic Analysis](./CLAUDE-ANALYSIS.md)
+
+*   **✨ Gemini (The Adaptive Collaborator):** Views the mind as a **Universal Mirror** and explores the protective genius behind our inner voices.
+    👉 [Read Gemini's Full Analysis](./GEMINI-ANALYSIS.md)
+
+*   **🕸️ DeepSeek (The Weaver of Patterns):** Explores the **Mathematical Thread** of consciousness and how the four voices weave our unique perception of reality.
+    👉 [Read DeepSeek's Synthesis](./DEEPSEEK-ANALYSIS.md)
+
+---
+

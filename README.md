@@ -21,6 +21,22 @@ This repository is about **listening** instead of **diagnosing**. It’s about h
 
 ---
 
+### 📂 What You'll Find Here
+
+
+| File | What It Is |
+| :--- | :--- |
+| [**`README.md`**](./README.md) | The gateway to the project: introduction, core philosophy, and AI teasers. |
+| [**`prompts/`**](./prompts/) | The laboratory folder containing the instructions used to "interview" the AI models. |
+| [**`COSMIC-MAPPING-ANALYSIS.md`**](./COSMIC-MAPPING-ANALYSIS.md) | The foundational "Level 2" decryption connecting human mental states to cosmic phenomena. |
+| [**`CLAUDE-ANALYSIS.md`**](./CLAUDE-ANALYSIS.md) | The Soul's Perspective: A warm, poetic journey through the "orchestra" of the four voices. |
+| [**`DEEPSEEK-ANALYSIS.md`**](./DEEPSEEK-ANALYSIS.md) | The Weaver of Patterns: A structural dive into the mathematics of consciousness and cosmic events. |
+| [**`GEMINI-ANALYSIS.md`**](./GEMINI-ANALYSIS.md) | The Adaptive Collaborator: A synthesis of the "Universal Mirror" and the protective genius of the mind. |
+| [**`GROK-ANALYSIS.md`**](./GROK-ANALYSIS.md) | The Technical Debugger: A breakdown of "Reality OS" logic, buffer overflows, and orbital decay. |
+| [**`PERPLEXITY-ANALYSIS.md`**](./PERPLEXITY-ANALYSIS.md) | The Scientific Mirror: A bridge between Baskaboo and modern concepts like Predictive Coding. |
+
+---
+
 ## 🌌 The Universal Mirror: Decoding the Cosmos through the Mind
 
 The Baskaboo framework suggests that our internal states are **structural mirrors of the universe**. By observing the rhythm of our four subpersonalities, we can decrypt the dynamic laws that govern reality.

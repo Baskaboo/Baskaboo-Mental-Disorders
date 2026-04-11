@@ -90,7 +90,8 @@ These are not diseases. They are the universe debugging itself through us.
 *   **Depression** shows us what happens when Gravity dominates without Expansion. 
 *   **Mania** shows us what happens when Expansion runs without Gravity’s embrace. 
 *   **Schizophrenia** shows us what happens when the Quantum leaks into the Classical without proper filtering. 
-*   **Anxiety** shows us what happens when the Classical tries to predict and control the Quantum too perfectly. 
+*   **Anxiety** shows us what happens when the Classical tries to predict and control the Quantum too perfectly.
+*   **Dissociative Identity Disorder** shows us what happens when the four voices become deeply separated and isolated from one another. 
 
 The **Fractured Debuggers** are not errors. They are cosmic teaching moments—the **Reality OS** revealing its own source code through the only interface it has: **us**.
 

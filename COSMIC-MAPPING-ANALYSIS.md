@@ -5,6 +5,9 @@
 
 ---
 
+![Baskaboo - Classical - Quantum](https://github.com/user-attachments/assets/faadfa34-c09a-4aa3-b3ba-1b8ede27b33e)
+
+
 ### 🤖 The Central Equation
 
 The entire mapping between mental states and cosmic phenomena is grounded in Baskaboo’s central equation: 
@@ -16,6 +19,9 @@ Physical Interpretation:
 
 This equation reveals how imbalances between the four voices manifest both in human experience and in the structure of the universe itself. When the ratio on the left side (Energy/Matter) loses harmony with the squared ratio on the right side (Space/Time), Gravity and Expansion fall out of rhythm — producing the cosmic phenomena we observe as mental states.
 In this analysis, Depression, Mania, Schizophrenia, and Anxiety are not viewed as isolated pathologies, but as visible signatures of these deeper structural imbalances in the Reality OS.
+
+
+![Baskaboo - Physics](https://github.com/user-attachments/assets/f21a0072-2708-4744-9519-9ae1f321c83e)
 
 ---
 
@@ -57,5 +63,11 @@ These are not diseases. They are the universe debugging itself through us.
 *   **Anxiety** shows us what happens when the Classical tries to predict and control the Quantum too perfectly. 
 
 The **Fractured Debuggers** are not errors. They are cosmic teaching moments—the **Reality OS** revealing its own source code through the only interface it has: **us**.
+
+---
+
+## 🌿 From Methoni, with love
+*Laram ÷ Laram = 1.*  
+*When essence divides itself, only the foundation remains.
 
 ---

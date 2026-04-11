@@ -85,7 +85,9 @@ The interaction of these voices reveals the fundamental forces of the universe:
 
 ---
 
-*   **🌌 The Cosmic Mapping Analysis:** "Are we broken, or is the Universe debugging itself through us?" Explore the breathtaking correspondence between mental states and cosmic phenomena—from Black Holes to Naked Singularities.
+## 🌌 The Cosmic Mapping Analysis 
+
+"Are we broken, or is the Universe debugging itself through us?" Explore the breathtaking correspondence between mental states and cosmic phenomena—from Black Holes to Naked Singularities.
     👉 [Read the Cosmic Mapping Analysis](./COSMIC-MAPPING-ANALYSIS.md)
 
 ---

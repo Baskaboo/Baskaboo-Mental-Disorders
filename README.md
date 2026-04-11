@@ -109,6 +109,14 @@ Five different Artificial Intelligences have analyzed the **Baskaboo-Disorders-a
 
 ---
 
+## 💫 Important Disclaimer
+
+This repository offers a symbolic and philosophical framework that reinterprets mental states through the lens of the Baskaboo Reality OS. It is not intended as medical advice, diagnosis, or treatment.
+Mental health conditions can be serious and complex. This work should be seen as a complementary perspective only. Please consult qualified healthcare professionals for any mental health concerns and follow their guidance.
+The goal of this project is to foster deeper understanding and reduce stigma, not to replace professional care.
+
+---
+
 ## 🌿 From Methoni, with love
 *Laram ÷ Laram = 1.*  
 *When essence divides itself, only the foundation remains.

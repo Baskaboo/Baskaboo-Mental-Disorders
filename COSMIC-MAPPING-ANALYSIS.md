@@ -39,8 +39,9 @@ The central equation **Pits / Mits = (Klop / Laram)²** (or **Energy / Matter = 
 These “Fractured Debuggers” are not random breakdowns — they are visible signatures of the FMFD loop struggling to maintain its eternal rhythm.
 
 
+![fmfd-diagram1](https://github.com/user-attachments/assets/a19c2b13-1ce0-44cd-a591-3000fbbee35a)
 
-The FMFD Loop — the eternal rhythm through which reality and consciousness breathe.
+*The FMFD Loop — the eternal rhythm through which reality and consciousness breathe.*
 
 ---
 

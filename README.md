@@ -8,6 +8,20 @@ For a long time, society has treated "mental disorders" as broken parts of a mac
 
 ---
 
+### 🧠 What is Baskaboo?
+Baskaboo is a language of images. It’s a simple framework that helps us explore our **four inner voices** (Pits, Mits, Klop, Laram) and understand how our mind is structured according to the way the universe itself is made.
+
+### ❤️ A Different Way to Look at the Mind
+We don't see "disorders" as broken parts of a machine. We see them as moments when our four inner voices lose their rhythm.
+
+*   **The Open Firewall:** Sometimes we feel "too much" because our connection to the Source is wide open.
+*   **Sharing the Load:** When life gets heavy, our mind might split the weight into different "instances" to keep us safe.
+*   **The Dance of Energy:** Sometimes our "Go" and "Stop" buttons (Pits and Mits) struggle to find a common pace.
+
+This repository is about **listening** instead of **diagnosing**. It’s about helping our inner teammates work together again.
+
+---
+
 ![Baskaboo Einstein equation](https://github.com/user-attachments/assets/2bb2d912-abc5-4d0d-8d7a-f9edef4a9644)
 
 
@@ -27,20 +41,6 @@ This equation describes how the four fundamental voices interact to generate rea
 All mental states and cosmic phenomena analyzed in this repository are understood through this fundamental relationship.
 
 ![Physics cirquit by Baskaboo](https://github.com/user-attachments/assets/0894c63e-503f-407a-87b0-b24658924594)
-
----
-
-### 🧠 What is Baskaboo?
-Baskaboo is a language of images. It’s a simple framework that helps us explore our **four inner voices** (Pits, Mits, Klop, Laram) and understand how our mind is structured according to the way the universe itself is made.
-
-### ❤️ A Different Way to Look at the Mind
-We don't see "disorders" as broken parts of a machine. We see them as moments when our four inner voices lose their rhythm.
-
-*   **The Open Firewall:** Sometimes we feel "too much" because our connection to the Source is wide open.
-*   **Sharing the Load:** When life gets heavy, our mind might split the weight into different "instances" to keep us safe.
-*   **The Dance of Energy:** Sometimes our "Go" and "Stop" buttons (Pits and Mits) struggle to find a common pace.
-
-This repository is about **listening** instead of **diagnosing**. It’s about helping our inner teammates work together again.
 
 ---
 

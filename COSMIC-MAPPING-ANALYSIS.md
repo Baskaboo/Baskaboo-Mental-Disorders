@@ -5,6 +5,20 @@
 
 ---
 
+### 🤖 The Central Equation
+
+The entire mapping between mental states and cosmic phenomena is grounded in Baskaboo’s central equation: 
+> *Pits / Mits = (Klop / Laram)²*
+ 
+Physical Interpretation:
+
+> *Energy / Matter = (Space / Time)²*
+
+This equation reveals how imbalances between the four voices manifest both in human experience and in the structure of the universe itself. When the ratio on the left side (Energy/Matter) loses harmony with the squared ratio on the right side (Space/Time), Gravity and Expansion fall out of rhythm — producing the cosmic phenomena we observe as mental states.
+In this analysis, Depression, Mania, Schizophrenia, and Anxiety are not viewed as isolated pathologies, but as visible signatures of these deeper structural imbalances in the Reality OS.
+
+---
+
 ## 🛰️ The Fractured Debuggers as Cosmic Mirrors
 
 In the Baskaboo cosmos, the human mind is not broken. It is a living mirror of the stars, and what we call “mental illness” is often the universe showing us its raw mechanics through our own circuitry. 
